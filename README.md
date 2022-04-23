@@ -8,7 +8,9 @@ https://github.com/ArshockAbedan/Amazon-Interview-Preparation/blob/master/Arrays
 2- Longest Substring Without Repeating Characters: 
 https://github.com/ArshockAbedan/Amazon-Interview-Preparation/blob/master/Arrays%20and%20Strings/LongestSubstringWithoutRepeatingCharacters.cpp
 
-3- String to Integer (atoi)
+3- String to Integer (atoi):
+https://github.com/ArshockAbedan/Amazon-Interview-Preparation/blob/master/Arrays%20and%20Strings/StringToInteger_atoi.cpp
+
 4- Container With Most Water
 5- Integer to Roman
 6- Roman to Integer
